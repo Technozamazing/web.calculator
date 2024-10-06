@@ -14,10 +14,10 @@ You can try the calculator live at: [Web.calculator](https://github.com/Technoza
 
 Project Structure:<br>
 -> calculator-project<br>
-  &nbsp;&nbsp; │<br>
-  &nbsp;&nbsp; ├── index.html   &nbsp;&nbsp;  # Main HTML file<br>
-  &nbsp;&nbsp; ├── style.css  &nbsp;&nbsp;  # Styles for the calculator<br>
-  &nbsp;&nbsp; └── script.js   &nbsp;&nbsp; # JavaScript logic for calculator functionality<br>
+  &nbsp;&nbsp;&nbsp; │<br>
+  &nbsp;&nbsp; &nbsp;&nbsp;├── index.html   &nbsp;&nbsp;  # Main HTML file<br>
+  &nbsp;&nbsp;&nbsp;&nbsp; ├── style.css  &nbsp;&nbsp;&nbsp;  # Styles for the calculator<br>
+  &nbsp;&nbsp;&nbsp;&nbsp; └── script.js   &nbsp;&nbsp;&nbsp; # JavaScript logic for calculator functionality<br>
 
 Usage<br>
 To use this calculator:<br>
