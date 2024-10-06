@@ -10,14 +10,14 @@ Features <br>
 -> Decimal point support <br>
 -> Responsive design for better usability on different screen sizes <br> <br>
 
-You can try the calculator live at: [Web.calculator](technozamazing.github.io/web.portfolio/calculator.html)  <br>
+You can try the calculator live at: [Web.calculator](https://github.com/Technozamazing/web.calculator.git)  <br>
 
 Project Structure:<br>
 -> calculator-project<br>
    │<br>
-   ├── index.html     # Main HTML file<br>
-   ├── style.css      # Styles for the calculator<br>
-   └── script.js      # JavaScript logic for calculator functionality<br>
+   ├── index.html   &nbsp;&nbsp;  # Main HTML file<br>
+   ├── style.css  &nbsp;&nbsp;    # Styles for the calculator<br>
+   └── script.js   &nbsp;&nbsp;   # JavaScript logic for calculator functionality<br>
 
 Usage<br>
 To use this calculator:<br>
@@ -46,4 +46,4 @@ Here’s an overview of how the code works:<br>
 
 <br>
 *License<br>
- This project is open-source and free to use. Feel free to modify and share as per your needs.
+&nbsp; This project is open-source and free to use. Feel free to modify and share as per your needs.
