@@ -1,16 +1,16 @@
 Web Calculator
-This is a simple web-based calculator created using HTML, CSS, and JavaScript. 
-It provides basic arithmetic operations and a clean user interface.
+This is a simple web-based calculator created using HTML, CSS, and JavaScript. <br>
+It provides basic arithmetic operations and a clean user interface. <br>
 
-Features
+Features <br>
 -> Basic arithmetic operations: Addition, Subtraction, Multiplication, Division <br>
 -> Supports percentage calculations <br>
 -> Clear (AC) button to reset the input <br>
--> Delete (DEL) button for deleting the last entered value
--> Decimal point support
--> Responsive design for better usability on different screen sizes
+-> Delete (DEL) button for deleting the last entered value <br>
+-> Decimal point support <br>
+-> Responsive design for better usability on different screen sizes <br> <br>
 
-You can try the calculator live at: [Web.calculator](technozamazing.github.io/web.portfolio/calculator.html)
+You can try the calculator live at: [Web.calculator](technozamazing.github.io/web.portfolio/calculator.html) 
 
 Project Structure:
 -> calculator-project
@@ -22,7 +22,7 @@ Project Structure:
 Usage
 To use this calculator:
 1. Clone the repository:
-   git clone [https://github.com/your-username/web-calculator.git](https://github.com/Technozamazing/web.calculator.git)
+   git clone https://github.com/your-username/web-calculator.git
 2. Open the index.html file in your web browser.
 3. Start performing calculations!
 
