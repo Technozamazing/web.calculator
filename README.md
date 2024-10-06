@@ -3,9 +3,9 @@ This is a simple web-based calculator created using HTML, CSS, and JavaScript.
 It provides basic arithmetic operations and a clean user interface.
 
 Features
--> Basic arithmetic operations: Addition, Subtraction, Multiplication, Division
--> Supports percentage calculations
--> Clear (AC) button to reset the input
+-> Basic arithmetic operations: Addition, Subtraction, Multiplication, Division <br>
+-> Supports percentage calculations <br>
+-> Clear (AC) button to reset the input <br>
 -> Delete (DEL) button for deleting the last entered value
 -> Decimal point support
 -> Responsive design for better usability on different screen sizes
