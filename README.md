@@ -22,7 +22,7 @@ Project Structure:<br>
 Usage<br>
 To use this calculator:<br>
 1. Clone the repository:<br>
-   git clone https://github.com/your-username/web-calculator.git<br>
+   git clone https://github.com/Technozamazing/web.calculator.git<br>
 2. Open the index.html file in your web browser.<br>
 3. Start performing calculations!<br>
 
